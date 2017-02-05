@@ -1,2 +1,2 @@
 Prova blocco note.
-Aggiungo parole per il ramo "master".
+Aggiungo parole per il branch "Master".
